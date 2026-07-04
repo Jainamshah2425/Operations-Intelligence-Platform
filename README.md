@@ -69,11 +69,3 @@ docs/       PROJECT_DOCUMENTATION.md
 
 ---
 
-## Resume Bullet
-> Built an end-to-end Python, SQL, and Power BI analytics pipeline processing 224K+
-> records; automated data validation and ETL with a pass/fail quality gate;
-> engineered business features and a 5-factor weighted opportunity-scoring model;
-> applied statistics (correlation, z-scores, 95% confidence intervals) and trend
-> forecasting; implemented anomaly detection (IQR, Z-score, Isolation Forest) to
-> flag operational risk; delivered an executive dashboard and auto-generated PDF
-> reporting layer enabling data-driven operational decisions.
