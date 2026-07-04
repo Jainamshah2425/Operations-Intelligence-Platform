@@ -1,0 +1,5 @@
+price_tier,restaurant_count,avg_rating,high_rated_count,high_rated_pct
+Luxury (1500+),5070,3.95,2803,55.3
+Premium (700-1500),18921,3.66,5395,28.5
+Mid-range (300-700),80406,3.47,9227,11.5
+Budget (<300),39127,3.39,2719,6.9

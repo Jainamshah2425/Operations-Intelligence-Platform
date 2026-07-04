@@ -1,0 +1,21 @@
+city_clean,city_tier,restaurant_count,avg_rating,online_pct,avg_cost,opportunity_score
+Patiala,Tier 2+,511,3.48,83.4,363.0,94.1
+Jabalpur,Tier 2+,473,3.48,82.9,362.0,93.9
+Jhansi,Tier 2+,331,3.46,81.6,235.0,93.4
+Gwalior,Tier 2+,577,3.46,80.2,329.0,92.6
+Jammu,Tier 2+,469,3.47,76.3,363.0,91.7
+Ajmer,Tier 2+,317,3.46,75.4,294.0,91.4
+Guntur,Tier 2+,242,3.48,72.7,355.0,91.2
+Kota,Tier 2+,640,3.46,74.2,292.0,90.9
+Agra,Tier 2+,977,3.47,72.7,508.0,90.3
+Rajkot,Tier 2+,529,3.46,71.5,322.0,90.0
+Bhopal,Tier 2+,1362,3.45,73.9,391.0,89.9
+Jalandhar,Tier 2+,650,3.47,70.6,391.0,89.9
+Nagpur,Tier 2+,1920,3.45,75.8,417.0,89.9
+Meerut,Tier 2+,492,3.48,68.9,310.0,89.7
+Gorakhpur,Tier 2+,354,3.46,67.5,316.0,89.1
+Jamshedpur,Tier 2+,425,3.47,66.1,322.0,88.9
+Jodhpur,Tier 2+,716,3.46,68.2,409.0,88.9
+Vijayawada,Tier 2+,498,3.46,67.5,406.0,88.9
+Indore,Tier 2+,2004,3.46,72.3,435.0,88.8
+Allahabad,Tier 2+,528,3.46,66.5,369.0,88.7

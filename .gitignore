@@ -1,0 +1,38 @@
+# Data files (too large for git; keep raw locally)
+data/*.csv
+data/cleaned/*.csv
+*.db
+
+# Large archives
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Power BI temp
+*.pbix.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Personal roadmap / strategy docs (kept local, not for the public repo)
+Operations_Analytics_Roadmap_v2.docx
+roadmap_text.txt
+
+# DB Browser for SQLite project file
+*.sqbpro
+
+# Excluded from the public repo but kept locally
+docs/INTERVIEW_PREP.md
+dashboard/
+images/
+learn/
+
+# Keep folder structure
+!data/cleaned/.gitkeep
+!outputs/reports/.gitkeep

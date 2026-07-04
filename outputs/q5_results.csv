@@ -1,0 +1,16 @@
+city_clean,restaurant_count,avg_rating,avg_cost,online_ready
+Guntur,242,3.48,355.0,176
+Trivandrum,404,3.48,451.0,234
+Jabalpur,473,3.48,362.0,392
+Meerut,492,3.48,310.0,339
+Patiala,511,3.48,363.0,426
+Surat,1776,3.48,368.0,1170
+Trichy,331,3.47,300.0,209
+Jamshedpur,425,3.47,322.0,281
+Jammu,469,3.47,363.0,358
+Puducherry,505,3.47,501.0,231
+Mangalore,606,3.47,401.0,367
+Jalandhar,650,3.47,391.0,459
+Visakhapatnam,917,3.47,416.0,589
+Agra,977,3.47,508.0,710
+Bhubaneswar,1266,3.47,410.0,721
